@@ -93,8 +93,8 @@
     ) // Activar numeración de páginas y márgenes
     set par(
         justify: true,
-        first-line-indent: 15pt,
-        spacing: 2em, // Espacio entre párrafos
+        first-line-indent: (amount: 15pt, all: true),
+        spacing: 1.2em, // Espacio entre párrafos       
     ) // Formato de párrafos
     
     set cite(style: "council-of-science-editors") // esto deja las citas contiguas como [1, 2] o [1-3]
