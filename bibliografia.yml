@@ -1,41 +1,290 @@
-CorlessJK97:
-  type: Article
-  title: A Sequence of Series for the Lambert W Function
-  author:
-    - Robert M. Corless
-    - David J. Jeffrey
-    - Donald E. Knuth
-  doi: "10.1145/258726.258783"
-  page-range: 197-204
-  parent:
-    type: Proceedings
-    title: International Symposium on Symbolic and Algebraic Computation
-    location: Kihei, Maui, Hawaii, USA.
-    year: 1997
-    isbn: 978-0-89791-875-6
+CausaCoaniquem:
+  type: web
+  title: Nuestra Causa
+  author: COANIQUEM
+  url: 
+    value: https://coaniquem.cl/es/nuestra-causa/
+    date: 2024-09-08
 
-NewmanT42:
-  type: Article
-  title: A Formal Theorem in Church's Theory of Types
-  doi: "10.2307/2267552"
-  author:
-    - M. H. A. Newman
-    - Alan M. Turing
-  page-range: 28-33
-  parent:
-    type: Periodical
-    title: The Journal of Symbolic Logic
-    volume: 7
-    number: 1
-    year: 1942
-    publisher: Association for Symbolic Logic
-    url: http://www.jstor.org/stable/2267552
+Coaniquem:
+  type: web
+  title: COANIQUEM - Corporación de Ayuda al Niño Quemado
+  author: COANIQUEM
+  url:
+    value: https://coaniquem.cl/es/
+    date: 2024-09-08
 
-Turing38:
+NCBICitation:
   type: Article
-  title: Systems of Logic Based on Ordinals
-  author: Alan M. Turing
-  year: 1938
-  organization: Princeton University
-  location: NJ, USA
-  doi: "10.1112/plms/s2-45.1.161"
+  title: "Pediatric burn rehabilitation: Philosophy and strategies"
+  doi: "10.4103/2321-3868.118930"
+  year: 2013
+  author:
+    - Ohgi S. 
+    - Gu S.
+  url:
+    value: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4978102/
+    date: 2024-09-08
+
+RedalycCitation:
+  type: Article
+  title: "El juego como representación del signo en niños y niñas preescolares: un enfoque sociocultural"
+  doi: ""
+  date: 2020
+  author:
+    - Sánchez-Domínguez Juan Pablo
+    - Sara Esther Castillo Ortega
+    - Betzaida Marimel Hernández López
+  url:
+    value: https://www.redalyc.org/journal/440/44062184041/
+    date: 2024-09-08
+  page: 5
+
+Garaigordobil:
+  type: Article
+  title: "Una metodología para la utilización didáctica del juego en contextos educativos"
+  doi: "http://dx.doi.org/10.1174/021470395321337848"
+  page: 91-106
+  date: 1995
+  author:
+    - Garaigordobil, Maite
+  journal: "Revista Comunicación, lenguaje y educación"
+  volume: 7
+  issue: 25
+  url:
+    value: http://dx.doi.org/10.1174/021470395321337848
+    date: 2024-09-08
+
+    
+Rehabilitacion-kinect:
+  type: Article
+  title: "Sistema de Rehabilitación Basado en el uso de Análisis Biomecánico y Videojuegos mediante el Sensor Kinect"
+  doi: ""
+  date: 2013
+  author:
+    - Muñoz-Cardona John E.
+    - Henao-Gallo Oscar A.
+    - López-Herrera José F.
+  url:
+    value: https://repositorio.itm.edu.co/bitstream/handle/20.500.12622/671/386-Manuscrito-552-1-10-20170217.pdf
+    date: 2024-08-08
+
+Medular:
+  type: Article
+  title: "Buenas prácticas de accesibilidad en videojuegos"
+  doi: ""
+  date: 2012
+  author:
+    - Cañizares MdC
+    - Martín JC
+  url:
+    value: https://www.aspaymmadrid.org/wp-content/uploads/2018/05/guia_accesibilidad_videojuegos.pdf
+    date: 2024-09-10
+
+muñeca:
+  type: web
+  title: "La importancia de una buena rehabilitación en las lesiones de mano y muñeca."
+  author:
+    - José J.
+  url:
+    value: https://cirugiamanovalencia.com/la-importancia-de-una-buena-rehabilitacion-en-las-lesiones-de-mano-y-muneca/
+    date: 2024-09-10
+
+    
+Fisioterapia:
+  type: web
+  title: "What is physiotherapy?"
+  doi: ""
+  date: 1987
+  author:
+     - World Physiotherapy
+  url:
+    value: https://world.physio/resources/what-is-physiotherapy
+    date: 2024-09-10
+
+Terapia-Ocup:
+  type: web
+  title: "About occupational therapy"
+  doi: ""
+  date: 2012
+  author:
+    - WFOT
+  url:
+    value: https://www.wfot.org/about/about-occupational-therapy
+    date: 2024-09-10
+
+Desercion:
+  type: Article
+  title: "Factors influencing therapeutic desertion of the consultants of a University Counseling Center"
+  doi: ""
+  date: 2009
+  author:
+    - Rondón Benítez Ángela Patricia
+    - Otálora Bastidas Iván Leonardo
+    - Salamanca Camargo Yenny
+  journal: International Journal of Psychological Research
+  volume: 2
+  issue: 2
+  pages: 137–147
+
+MotiVideo:
+  type: Article
+  title: "Serious games in prevention and rehabilitation—a new panacea for elderly people?"
+  doi: "10.1007/s11556-011-0093-x"
+  date: 2012
+  author:
+    - Wiemeyer, J.
+    - Kliem, A.
+  journal: European Review of Aging and Physical Activity
+  volume: 9
+  pages: 41–50
+  url:
+    value: https://doi.org/10.1007/s11556-011-0093-x
+    date: 2024-09-24
+
+    
+EmocionesConVideojuegos:
+  type: Article
+  title: "Emociones Con Videojuegos: Incrementando La Motivación para el aprendizaje"
+  doi: ""
+  date: 2008
+  author:
+    - González Carina S.
+  journal: USAL
+  url:
+    value: https://campus.usal.es/~teoriaeducacion/rev_numero_09_03/n9_03_gonzalez_blanco.pdf
+    date: 2024-09-10
+
+Adherencia:
+  type: Report
+  title: "Adherencia a Los tratamientos a Largo Plazo: Pruebas para la acción"
+  doi: ""
+  date: 2004
+  author:
+    - Organización Mundial de la Salud
+  publisher: Organización Mundial de la Salud
+
+HistoriaDeWii:
+  type: web
+  title: "Historia de Wii"
+  publisher: Nintendo
+  url:
+    value: https://www.nintendo.es/Hardware/La-historia-de-Nintendo/Wii/Wii-636022.html
+    date: 2024-09-10
+
+Kinect:
+  type: web
+  title: "Kinect"
+  doi: ""
+  date: 2022-09
+  author: ""
+  publisher: Wikipedia
+  url:
+    value: https://en.wikipedia.org/wiki/Kinect
+    date: 2024-09-10
+
+
+SistemasPosicionOrientacionHerramientas:
+  type: Thesis
+  title: "Sistemas para determinar la posición y orientación de herramientas quirúrgicas en operaciones de cirugía laparoscópica"
+  doi: ""
+  date: 2014-07
+  author:
+    - Vara Rodríguez David
+  url:
+    value: https://uvadoc.uva.es/bitstream/handle/10324/12884/TFG-P-161.pdf?sequence=1
+    date: 2024-09-10
+
+Hidapi:
+  type: web
+  title: "hidapi library"
+  doi: ""
+  date: 2010
+  author: ""
+  publisher: GitHub
+  url:
+    value: https://github.com/libusb/hidapi
+    date: 2024-09-10
+
+Godot:
+  type: web
+  title: "Godot Engine"
+  publisher: Godot Engine
+  url:
+    value: https://godotengine.org/
+    date: 2024-09-10
+
+Unity:
+  type: web
+  title: "Volvió Nuestra Conferencia para desarrolladores de juegos"
+  doi: ""
+  date: 2022
+  author:
+    - Unity Technologies
+  url:
+    value: https://unity.com/es
+    date: 2024-09-10
+
+Kalman:
+  type: web
+  title: "Kalman Filter - Examples and Explanation"
+  date: 2024
+  url:
+    value: https://kalmanfilter.net
+    date: 2024-09-10
+
+Joy-Con:
+  type: web
+  title: "Joy-Con"
+  date: 2024
+  url:
+    value: https://es.wikipedia.org/wiki/Joy-Con#:~:text=Los%20mandos%20Joy%2DCon%20son,y%20una%20matriz%20de%20botones
+    date: 2024-09-10
+    
+Trabajo-anterior:
+  type: Article
+  title: "Motion-Control Video Games to Train and Assess the Articular Range of Motion in Physical Therapy Sessions"
+  doi: "10.1007/978-3-031-60695-3_2"
+  date: 2024
+  author:
+    - Contreras E.
+    - Orellana Silva M.
+    - Hidalgo M.G.
+    - Gutiérrez J.A.
+    - Gutierrez F.J.
+  journal: Lecture Notes in Computer Science
+  volume: 14731
+  publisher: Springer, Cham
+  url: https://link.springer.com/chapter/10.1007/978-3-031-60695-3_2
+  booktitle: "HCI in Games. HCII 2024"
+  editor: "Fang X."
+
+
+VariasEnfermedades:
+  type: Article
+  title: "Game-based virtual reality interventions to improve upper limb motor function and quality of life after stroke: Systematic review and meta-analysis"
+  author:
+    - Dominguez-Tellez, P.
+    - Moral-Munoz, A.
+    - Salazar, A.
+    - Casado-Fernández, E.
+    - Lucena-Antón, D.
+  date: 2020
+  url:
+    value: https://doi.org/10.1089/g4h.2019.0043
+    date: 2024-09-10
+
+JNPT:
+  type: Article
+  title: "Video games and rehabilitation: Using design principles to enhance engagement in physical therapy"
+  author:
+    - Lohse, K.
+    - Shirzad, N.
+    - Verster, A.
+    - Hodges, N.
+    - Van der Loos, H.F.M.
+  journal: Journal of Neurologic Physical Therapy
+  volume: 37
+  number: 4
+  pages: 166–175
+  year: 2017
